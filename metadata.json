@@ -1,0 +1,6 @@
+{
+  "name": "Փքաբլիթներ և Սուրճ | Artisanal Specialty Café",
+  "description": "Մասնագիտացված սրճարան և բրիոշ փքաբլիթների արհեստանոց Երևանում: 48-ժամյա դանդաղ խմորում, բարձրակարգ սպեցիալթի արաբիկա և տեղում բովված սուրճ:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
